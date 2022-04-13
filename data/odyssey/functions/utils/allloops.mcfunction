@@ -1,0 +1,12 @@
+execute as @a if score @s var matches -1 run execute as @s run function odyssey:world_ship/loop
+execute as @a if score @s var matches 0 run execute as @s run function odyssey:world_00/loop
+execute as @a if score @s var matches 1 run execute as @s run function odyssey:world_01/loop
+execute as @a if score @s var matches 2 run execute as @s run function odyssey:world_02/loop
+execute as @a if score @s var matches 3 run execute as @s run function odyssey:world_03/loop
+execute as @a if score @s var matches 4 run execute as @s run function odyssey:world_04/loop
+execute as @a if score @s var matches 5 run execute as @s run function odyssey:world_05/loop
+execute as @a if score @s var matches 6 run execute as @s run function odyssey:world_06/loop
+execute as @a if score @s var matches 7 run execute as @s run function odyssey:world_07/loop
+execute as @a if score @s var matches 8 run execute as @s run function odyssey:world_08/loop
+execute as @a if score @s var matches 9 run execute as @s run function odyssey:world_09/loop
+execute as @a if score @s var matches 10 run execute as @s run function odyssey:world_10/loop
