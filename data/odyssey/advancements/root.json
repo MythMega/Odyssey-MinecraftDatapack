@@ -1,0 +1,28 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Odyssey",
+            "color": "dark_green",
+            "bold": true,
+            "obfuscated": false
+        },
+        "description": {
+            "text": "Play to earn advancements",
+            "color": "white"
+        },
+        "icon": {
+            "item": "minecraft:birch_leaves"
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": false,
+        "background": "minecraft:textures/gui/advancements/backgrounds/stone.png"
+    },
+    "criteria": {
+        "i": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}
