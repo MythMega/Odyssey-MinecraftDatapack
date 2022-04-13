@@ -1,1 +1,1 @@
-#loop
+#loop globale
