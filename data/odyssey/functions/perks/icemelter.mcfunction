@@ -1,0 +1,1 @@
+execute at @s[nbt={SelectedItem:{id:"minecraft:torch"}}] run fill ~-2 ~-1 ~-2 ~2 ~1 ~2 minecraft:air replace minecraft:ice
