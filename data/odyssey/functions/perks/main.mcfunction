@@ -9,6 +9,6 @@ execute as @a at @s if score @s coinsradar matches 2 run function odyssey:perks/
 execute as @a at @s if score @s glider matches 2 run function odyssey:perks/glider
 execute as @a at @s if score @s bow matches 2 run function odyssey:perks/bow
 execute as @a at @s if score @s grapplinghook matches 2 run function odyssey:perks/grapplinghook
-execute as @a at @s if score @s icemelter matches 2 run function odyssey:perks/fireproof
-execute as @a at @s if score @s icemelter matches 2 run function odyssey:perks/sprinter
-execute as @a at @s if score @s icemelter matches 2 run function odyssey:perks/bolter
+execute as @a at @s if score @s fireproof matches 2 run function odyssey:perks/fireproof
+execute as @a at @s if score @s sprinter matches 2 run function odyssey:perks/sprinter
+execute as @a at @s if score @s bolter matches 2 run function odyssey:perks/bolter
