@@ -1,0 +1,11 @@
+scoreboard players set __skins_amongus skins 0
+scoreboard players set __skins_nitendo skins 0
+scoreboard players set __skins_steves skins 0
+scoreboard players set __skins_christmas skins 0
+scoreboard players set __skins_tvshows skins 0
+scoreboard players set __skins_deadspace skins 0
+scoreboard players set __skins_plushies skins 0
+scoreboard players set __skins_toys skins 0
+scoreboard players set __skins_lineaucent skins 0
+scoreboard players set __skins_vips skins 0
+scoreboard players set __skins_emotes skins 0
